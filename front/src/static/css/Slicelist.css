@@ -1,0 +1,28 @@
+
+#components-layout-demo-responsive .logo {
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.site-layout-sub-header-background {
+    background: #fff;
+}
+
+.site-layout-background {
+    background: #fff;
+}
+
+.ant-list-item{
+    width: 250px;
+    padding: 10px;
+}
+.image-div{
+    /*background-color: green;*/
+    padding: 10px;
+}
+.name-deleate-div{
+    /*background-color: red;*/
+    width: 60%;
+    margin-left: 20%;
+}

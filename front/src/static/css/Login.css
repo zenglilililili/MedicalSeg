@@ -1,0 +1,40 @@
+.login-div {
+    margin: 150px auto;
+    width: 400px;
+}
+
+.ant-card-head {
+    text-align: center;
+}
+
+.ant-card-body {
+    text-align: center;
+}
+
+.l-registerContact-div {
+    width: 100%;
+    margin: 2px;
+
+}
+
+.l-register-div {
+    width: 50%;
+    display: block;
+    float: left;
+    text-align: center;
+
+}
+
+.l-contact-div {
+    /*background-color: green;*/
+    width: 50%;
+    display: block;
+    float: right;
+    text-align: center;
+
+}
+
+body {
+    background-color: #f0f0f0;
+
+}
